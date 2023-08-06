@@ -26,8 +26,6 @@ The Team Knowledge Park consists of :
 * [Adit Lohani](https://github.com/TotemicRook133)
 * [Anish Lohani](https://github.com/anishl135)
 * [Riwaj Adhikari](https://github.com/riwaj43adz)
-* [Shafaq Arshad](https://github.com/Shafaq15)
-* [Marriam Sajid](https://github.com/marriamsajid)
 * All members of the famous Team Knnowledge Park :)
 
 ## Prizes and Achievements
