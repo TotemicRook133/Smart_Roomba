@@ -20,6 +20,15 @@ Welcome to the Smart Roomba project, part of the Smart Agriculture ecosystem dev
 ## Team Knowledge Park
 
 This project has been entirely designed and developed by "Team Knowledge Park." We are a passionate group of enthusiasts with a strong background in robotics, agriculture, and engineering. Our goal is to create innovative solutions that improve agriculture practices and contribute to a sustainable future.
+## 👨🏼‍💻 Contributors
+The Team Knowledge Park consists of :
+
+* [Adit Lohani](https://github.com/TotemicRook133)
+* [Anish Lohani](https://github.com/anishl135)
+* [Riwaj Adhikari](https://github.com/riwaj43adz)
+* [Shafaq Arshad](https://github.com/Shafaq15)
+* [Marriam Sajid](https://github.com/marriamsajid)
+* All members of the famous Team Knnowledge Park :)
 
 ## Prizes and Achievements
 
